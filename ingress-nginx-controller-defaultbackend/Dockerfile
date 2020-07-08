@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/defaultbackend-amd64:1.5
+FROM gcr.io/google-containers/defaultbackend-amd64:1.5
 MAINTAINER zyt
